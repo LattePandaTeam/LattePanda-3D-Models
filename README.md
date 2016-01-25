@@ -7,7 +7,7 @@ Contains the following:
 - STP file
 - Screenshot after rendering
 
-### To download, click "Download ZIP" to the right   ==>
+### To download, please click "Download ZIP"
 
 Follow us on Twitter for updates and more information: https://twitter.com/LattePandaCN
 
