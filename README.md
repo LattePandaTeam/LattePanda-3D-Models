@@ -5,6 +5,8 @@ LattePanda 3D Model
 
 Contains the following:
 - STP file
+- Solidworks file
+- PDF file
 - Screenshot after rendering
 
 ### To download, please click "Download ZIP"
