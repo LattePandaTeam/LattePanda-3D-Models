@@ -8,6 +8,7 @@ Contains the following:
 - Solidworks file
 - PDF file
 - Screenshot after rendering
+- LattePanda Case related file
 
 ### To download, please click "Download ZIP"
 
