@@ -4,6 +4,8 @@ LattePanda 3D Model
 3D model of LattePanda
 
 Contains the following:
+- Mechanical Distance by:berryelectronics  
+- Mechanical Size by:berryelectronics  
 - STP file
 - Solidworks file
 - PDF file
