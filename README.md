@@ -16,5 +16,8 @@ Follow us on Twitter for updates and more information: https://twitter.com/Latte
 
 Designed by Kelvin and Mark for LattePanda
 
-Creative Commons Attribution 3.0 Unported License. 
+Mechanical Distance and Mechanical Size drawings contributed by Matthias Nowak
+https://github.com/berryelectronics
+
+Creative Commons Attribution 3.0 Unported License 
 To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/. All text above must be included in any redistribution.
