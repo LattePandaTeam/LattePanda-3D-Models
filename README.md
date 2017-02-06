@@ -3,6 +3,10 @@ LattePanda 3D Model
 
 3D model of LattePanda
 
+What's new
+Model v0.9 
+Updated component location and type
+
 Contains the following:
 - Mechanical Distance by:berryelectronics  
 - Mechanical Size by:berryelectronics  
