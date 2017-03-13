@@ -1,4 +1,4 @@
-LattePanda 3D Model
+LattePanda 3D Models
 ----------------
 
 3D model of LattePanda
