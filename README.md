@@ -17,7 +17,7 @@ Contains the Following:
 
 Designed by Kelvin and Mark for LattePanda
 
-Mechanical Distance and Mechanical Size drawings contributed by [Matthias Nowak](https://github.com/berryelectronics)
+Mechanical Distance and Mechanical Size drawings contributed by [Matthias Nowak](https://github.com/berryelectronics){:target="_blank"}
 
 ### Click "Download ZIP" to download
 
