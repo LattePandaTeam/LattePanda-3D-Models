@@ -1,9 +1,9 @@
 LattePanda 3D Models
 ----------------
 
-What's New?
-Model v0.9 
-Updated Component Location and Type
+What's New?<br>
+Model v0.9 <br>
+Updated Component Location and Type<br><br>
 
 Contains the Following:
 - Mechanical Distance Diagram by Matthias Nowak
@@ -17,12 +17,12 @@ Contains the Following:
 
 Designed by Kelvin and Mark for LattePanda
 
-Mechanical Distance and Mechanical Size drawings contributed by (Matthias Nowak)[https://github.com/berryelectronics]
+Mechanical Distance and Mechanical Size drawings contributed by [Matthias Nowak](https://github.com/berryelectronics)
 
 ### Click "Download ZIP" to download
 
-Official Website: https://www.lattepanda.com
-Follow us on (Twitter)[https://twitter.com/LattePandaCN] or (Facebook)[https://www.facebook.com/lattepandacn] for updates
+[LattePanda Official Website](https://www.lattepanda.com)
+Follow us on [Twitter](https://twitter.com/LattePandaCN) or [Facebook](https://www.facebook.com/lattepandacn) for updates
 
 Creative Commons Attribution 3.0 Unported License 
 To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/. All text above must be included in any redistribution.
