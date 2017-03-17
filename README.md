@@ -14,7 +14,7 @@ Contains the Following:
 - Rendered Screenshot
 - LattePanda Wood/Acrylic Lasercut Enclosure, including CAD files and assembly instructions (Compatible with [cooling fan kit](https://www.dfrobot.com/product-1520.html))
 - LattePanda Lasercut Jig for 60mm Fan (.dxf)
-- LattePana Lasercut display stand (.dwg) (Assembled image [here](https://twitter.com/LattePandaCN/status/756072896615714817))
+- LattePana Lasercut display stand (.dwg) (Assembled image [here](https://twitter.com/LattePandaCN/status/756072896615714817 "title" target="_blank"))
 
 Designed by Kelvin and Mark for LattePanda
 
