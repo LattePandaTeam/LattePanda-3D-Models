@@ -7,6 +7,7 @@ The LattePanda KiCAD Library provides symbols and footprints for the LattePanda 
 - LattePanda 2 Alpha
 - LattePanda 2 Delta
 - LattePanda 3 Delta
+- LattePanda Iota
 
 ## Installation
 
